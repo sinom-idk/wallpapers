@@ -3,6 +3,8 @@
 <table>
     <tr>
         <td><img src="./wallpapers/black/sinxcosy-4k-black.png" width="50%"></td>
+    </tr>
+    <tr>
         <td>themed
             <table>
                 <tr>
