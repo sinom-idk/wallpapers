@@ -4,8 +4,8 @@
     <tr>
         <table>
             <tr>
-                <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png" width="25%"></td>
-                <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png" width="25%"></td>
+                <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
+                <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
             </tr>
             <tr>
                 <td><img src="./wallpapers/nord/sinxcosy-4k-nord.png" width="25%"></td>
