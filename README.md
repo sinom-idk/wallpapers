@@ -1,22 +1,24 @@
 <center><h1>wallpapers</h1>
 
-<table>
-    <table class="inlineTable">
-        <tr>
-            <td><img src="./wallpapers/black/sinxcosy-4k-black.png" width="50%"></td>
-        </tr>
-    </table>
+<table style="width: 100%;">
     <tr>
-        <table class="inlineTable">
-            <tr width="50%">
-                <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
-                <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
-            </tr>
-            <tr width="50%">
-                <td><img src="./wallpapers/nord/sinxcosy-4k-nord.png"></td>
-                <td><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png"></td>
-            </tr>
-        </table>
+        <td style="width: 50%; vertical-align: top;">
+            <img src="./wallpapers/black/sinxcosy-4k-black.png" width="100%">
+        </td>
+        <td style="width: 50%; vertical-align: top;">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="width: 50%;"><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png" style="width: 100%"></td>
+                    <td style="width: 50%;"><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png" style="width: 100%"></td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;"><img src="./wallpapers/nord/sinxcosy-4k-nord.png" style="width: 100%"></td>
+                    <td style="width: 50%;"><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png" style="width: 100%"></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
     </tr>
     <tr>
         <td><img src="./wallpapers/gruvbox/esinxcosy-4k-gruvbox.png" width="50%"></td>
