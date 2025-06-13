@@ -1,11 +1,13 @@
 <center><h1>wallpapers</h1>
 
 <table>
+    <table class="inlineTable">
+        <tr>
+            <td><img src="./wallpapers/black/sinxcosy-4k-black.png" width="50%"></td>
+        </tr>
+    </table>
     <tr>
-        <td><img src="./wallpapers/black/sinxcosy-4k-black.png" width="50%"></td>
-    </tr>
-    <tr>
-        <table style="display: inline-block;">
+        <table class="inlineTable">
             <tr width="50%">
                 <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
                 <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
