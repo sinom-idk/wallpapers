@@ -5,12 +5,12 @@
        <td>themed:
            <table>
                <tr>
-                   <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png" width="50%"></td>
-                   <td width="25%"><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png" width="50%"></td>
+                   <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png" width="25%"></td>
+                   <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png" width="25%"></td>
                </tr>
                <tr>
-                   <td width="25%"><img src="./wallpapers/nord/sinxcosy-4k-nord.png" width="50%"></td>
-                   <td width="25%"><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png" width="50%"></td>
+                   <td><img src="./wallpapers/nord/sinxcosy-4k-nord.png" width="25%"></td>
+                   <td><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png" width="25%"></td>
                </tr>
            </table>
         </td>
