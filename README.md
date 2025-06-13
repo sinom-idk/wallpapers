@@ -6,11 +6,11 @@
     </tr>
     <tr>
         <table>
-            <tr>
+            <tr width="50%">
                 <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
                 <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
             </tr>
-            <tr>
+            <tr width="50%">
                 <td><img src="./wallpapers/nord/sinxcosy-4k-nord.png"></td>
                 <td><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png"></td>
             </tr>
