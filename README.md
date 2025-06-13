@@ -23,11 +23,11 @@
 	</tr>
 	<tr>
 	  <td width="50%"><img src="./wallpapers/nord/x2y2-4k-nord.png"></td>
-	  <td width="50%"><img src="./wallpapers/solarized/sinx2y2-4k-solarized.png"></td>
+	  <td width="50%"><img src="./wallpapers/solarized/x2y2-4k-solarized.png"></td>
 	</tr>
 	<tr>
 	  <td width="50%"><img src="./wallpapers/nord/sinx2y2-4k-nord.png"></td>
-	  <td width="50%"><img src="./wallpapers/solarized/x2y2-4k-solarized.png"></td>
+	  <td width="50%"><img src="./wallpapers/solarized/sinx2y2-4k-solarized.png"></td>
 	</tr>
 	<tr>
 	  <td width="50%"><img src="./wallpapers/gruvbox/sinx2y2-4k-gruvbox.png"></td>
