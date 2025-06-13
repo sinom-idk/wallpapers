@@ -5,7 +5,7 @@
     <td><img src="./wallpapers/black/sinxcosy-4k-black.png" width="50%"></td>
     </tr>
     <tr>
-        <table width="50%">
+        <table>
             <tr>
                 <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
                 <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
@@ -17,8 +17,8 @@
         </table>
     </tr>
     <tr>
-        <td width="50%"><img src="./wallpapers/gruvbox/esinxcosy-4k-gruvbox.png" width="50%"></td>
-        <td width="50%"><img src="./wallpapers/catppuccin/esinxcosy-4k-catppuccin.png" width="50%"></td>
+        <td><img src="./wallpapers/gruvbox/esinxcosy-4k-gruvbox.png" width="50%"></td>
+        <td><img src="./wallpapers/catppuccin/esinxcosy-4k-catppuccin.png" width="50%"></td>
     </tr>
     <tr>
         <td width="50%"><img src="./wallpapers/nord/esinxcosy-4k-nord.png" width="50%"></td>
