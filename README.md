@@ -2,8 +2,8 @@
 
 <table>
     <tr>
-       <td width="50%"><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png" width="960"></td>
-       <td width="50%">themed:
+       <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png" width="960"></td>
+       <td>themed:
            <table>
                <tr>
                    <td width="25%"><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png" width="960"></td>
