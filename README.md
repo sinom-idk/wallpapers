@@ -5,7 +5,7 @@
     <td><img src="./wallpapers/black/sinxcosy-4k-black.png" width="50%"></td>
     </tr>
     <tr>
-        <table>
+        <table style="float: right">
             <tr>
                 <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
                 <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
