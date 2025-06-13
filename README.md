@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+table {
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+td {
+  padding: 16px;
+}
+
+</style>
+</head>
+<body>
+
 <center><h1>wallpapers</h1>
 
 <table>
