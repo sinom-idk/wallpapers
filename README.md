@@ -3,11 +3,14 @@
 <table>
     <tr>
         <td width="50%"><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
-    <td width="50%"><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
-    </tr>
-    <tr>
-        <td width="50%"><img src="./wallpapers/nord/sinxcosy-4k-nord.png"></td>
-        <td width="50%"><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png"></td>
+        <table>
+            <tr>
+                <td width="25%"><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
+            </tr>
+            <tr>
+                <td width="25%"><img src="./wallpapers/nord/sinxcosy-4k-nord.png"></td>
+                <td width="25%"><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png"></td>
+            </tr>
     </tr>
     <tr>
         <td width="50%"><img src="./wallpapers/gruvbox/esinxcosy-4k-gruvbox.png"></td>
