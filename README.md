@@ -2,14 +2,17 @@
 
 <table>
     <tr>
+    <td><img src="./wallpapers/black/sinxcosy-4k-black.png"></td>
+    </tr>
+    <tr>
         <table>
             <tr>
                 <td><img src="./wallpapers/gruvbox/sinxcosy-4k-gruvbox.png"></td>
                 <td><img src="./wallpapers/catppuccin/sinxcosy-4k-catppuccin.png"></td>
             </tr>
             <tr>
-                <td><img src="./wallpapers/nord/sinxcosy-4k-nord.png" width="25%"></td>
-                <td><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png" width="25%"></td>
+                <td><img src="./wallpapers/nord/sinxcosy-4k-nord.png"></td>
+                <td><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png"></td>
             </tr>
         </table>
     </tr>
