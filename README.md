@@ -11,6 +11,7 @@
                 <td width="25%"><img src="./wallpapers/nord/sinxcosy-4k-nord.png"></td>
                 <td width="25%"><img src="./wallpapers/solarized/sinxcosy-4k-solarized.png"></td>
             </tr>
+        </table>
     </tr>
     <tr>
         <td width="50%"><img src="./wallpapers/gruvbox/esinxcosy-4k-gruvbox.png"></td>
