@@ -76,3 +76,23 @@
         </td>
     </tr>
 </table>
+<table>
+    <tr>
+        <td>
+            <img src="./wallpapers/black/sinxyxy-4k-black.png" width="400px">
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td><img src="./wallpapers/gruvbox/sinxyxy-4k-gruvbox.png" width="200px"></td>
+                    <td><img src="./wallpapers/catppuccin/sinxyxy-4k-catppuccin.png" width="200px"></td>
+                </tr>
+                <tr>
+                    <td><img src="./wallpapers/nord/sinxyxy-4k-nord.png" width="200px"></td>
+                    <td><img src="./wallpapers/solarized/sinxyxy-4k-solarized.png" width="200px"></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
